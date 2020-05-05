@@ -1,5 +1,5 @@
 # Vue weather app in Uzbek
-[Test Image 1](http://obhavo.medialife.uz/img/mainpage.5ec17b3a.jpg)
+[Screenshot](http://obhavo.medialife.uz/img/mainpage.5ec17b3a.jpg)
 ## Project setup
 ```
 npm install
