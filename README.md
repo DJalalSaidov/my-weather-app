@@ -1,4 +1,4 @@
-# real-world-app
+# Vue weather app in Uzbek
 
 ## Project setup
 ```
